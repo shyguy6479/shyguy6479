@@ -32,16 +32,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/shyguy6479/shyguy6479/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/shyguy6479/shyguy6479/output/galaga-contribution-graph-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/shyguy6479/shyguy6479/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/shyguy6479/shyguy6479/output/galaga-contribution-graph.svg"
   />
 
   <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/shyguy6479/shyguy6479/output/github-contribution-grid-snake.svg"
+    alt="Galaga contribution graph"
+    src="https://raw.githubusercontent.com/shyguy6479/shyguy6479/output/galaga-contribution-graph-dark.svg"
   />
 </picture>
