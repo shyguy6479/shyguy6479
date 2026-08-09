@@ -13,7 +13,7 @@ AI Medical Assistant  <br>AI/ML & Generative AI projects<br>AI/ML projects & dep
       <img
         src="./assets/batman.gif"
         alt="Batman GIF"
-        width="300"
+        
       />
     </td>
   </tr>
