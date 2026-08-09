@@ -30,9 +30,9 @@ AI Medical Assistant  <br>AI/ML & Generative AI projects<br>AI/ML projects & dep
 </p>
 <p align="center">
   <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZnZHFobmV1MG83MHN6a2hyeG9nc29wbTE1bnc3cjMzOHdhdnh3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8EUAELHvjSpWa7yfWM/giphy.gif"
-    width="400"
-    alt="Batman"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJxcTc5cTN4djh1aDBxcHdmNm1tazhjcmwxcTY2c2pueXB3a2d6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4jfJqiIxvU08/giphy.gif"
+    width="500"
+    alt="GIF"
   />
 </p>
 
