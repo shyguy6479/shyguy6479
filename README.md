@@ -35,13 +35,21 @@ AI Medical Assistant  <br>AI/ML & Generative AI projects<br>AI/ML projects & dep
 
 <h3>Most Used Languages</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyguy6479&theme=dark&hide_border=false&layout=compact&langs_count=8" width="100%"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyguy6479&theme=dark&hide_border=true&layout=compact&langs_count=8"
+  alt="Most Used Languages"
+  width="100%"
+/>
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="YOUR_BATMAN_GIF_URL" width="90%" alt="Batman GIF"/>
+<img
+  src="https://media.giphy.com/media/B4jfJqiIxvU08/giphy.gif"
+  alt="Batman GIF"
+  width="300"
+/>
 
 </td>
 
