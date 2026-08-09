@@ -1,5 +1,23 @@
-# 💫 About Me:
-AI Medical Assistant  <br>AI/ML & Generative AI projects<br>AI/ML projects & deployment  <br>Machine Learning, Deep Learning, FastAPI, LLMs<br>Python, Machine Learning, FastAPI, Scikit-learn & AI<br>I enjoy turning AI ideas into real projects  
+<h1 align="center">Hi 👋, I'm shyguy6479</h1>
+<h3 align="center">An aspiring AI/ML engineer building intelligent applications</h3>
+
+- 🔭 I’m currently working on [AI Medical Assistant](https://caroai.lovable.app)
+
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, FastAPI, LLMs**
+
+- 👯 I’m looking to collaborate on **AI/ML & Generative AI projects**
+
+- 🤝 I’m looking for help with **AI/ML projects & deployment**
+
+- 👨‍💻 All of my projects are available at [shyguy6479](shyguy6479)
+
+- 📝 I regularly write articles on [AI/ML, projects](AI/ML, projects)
+
+- 💬 Ask me about **Python, Machine Learning, FastAPI, Scikit-learn & AI**
+
+- 📫 How to reach me **abhixin79@gmail.com**
+
+- ⚡ Fun fact **I enjoy turning AI ideas into real projects**
 
 
 ## 🌐 Socials:
