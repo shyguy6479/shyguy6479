@@ -12,3 +12,20 @@ AI Medical Assistant  <br>AI/ML & Generative AI projects<br>AI/ML projects & dep
 ![](https://streak-stats.demolab.com/?user=shyguy6479&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shyguy6479&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shyguy6479/shyguy6479/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/shyguy6479/shyguy6479/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/shyguy6479/shyguy6479/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
